@@ -8,6 +8,8 @@ public class Main {
         Seasons seasons = new Seasons(scanner.nextInt());
 
         seasons.getSeasons();
+
+        System.out.println("tessssst");
     }
 
 }
